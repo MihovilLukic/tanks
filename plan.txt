@@ -1,0 +1,49 @@
+Game Title: Pocket TANKS
+
+Objective: The objective of the game is to defeat the opponent by using various weapons and tactics.
+
+Gameplay:
+
+The game will be a turn-based, 2D game where two players battle it out in a destructible terrain.
+Each player will have a team of tanks that they control.
+Players will take turns controlling their tanks and using weapons to attack the opponent's worms.
+The game will be won by eliminating all of the opponent's tanks or reducing their health to zero.
+
+Weapons:
+
+The game will include a few different weapons from both Pocket Tanks and Worms. (ChatGPT will choose which weapons will be included)
+Some weapons will be more destructive than others, and each weapon will have its own unique characteristics.
+
+Terrain:
+
+The terrain will be destructible and will have obstacles such as mountains and buildings.
+The terrain will be randomly generated each game to provide a unique playing experience.
+
+User Interface:
+
+The game will have a simple user interface that allows players to control their tanks, aim their weapons, and select their weapon of choice.
+The user interface will also display each tank's health and the current turn.
+
+Art and Sound:
+
+The game will have simple, cartoonish graphics.
+The game will have sound effects for each weapon and background music.
+
+Programming:
+
+The game will be programmed in Python.
+The Pygame library will be used to handle graphics and user input.
+ChatGPT will try to introduce as many libraries as possibble, so that i can learn about them.
+The game will be divided into several modules to make it easy to manage and modify.
+
+Set up the game window and initialize Pygame.
+Load the images and other resources needed for the game.
+	draw background
+	draw obstacles
+Create the classes and functions needed for the game logic, such as the Tank and Projectile classes.
+Implement the game loop, which will handle user input, update the game state, and draw the game world.
+Implement collision detection and other game mechanics, such as damage calculations and terrain destruction.
+Add sound effects and music to the game.
+Test the game thoroughly and fix any bugs that are found.
+Add any additional features or improvements you would like to make.
+Publish the game or share it with others to play and enjoy.
